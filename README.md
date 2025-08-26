@@ -36,9 +36,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: MANOJ KUMAR S
+### Name: MEYYAPPAN T
 
-### Register Number: 212223240082
+### Register Number: 212223240086
 
 ```python
 import torch
@@ -153,8 +153,8 @@ with torch.no_grad():
     predicted_class_index = torch.argmax(output[0]).item()
     predicted_class_label = iris.target_names[predicted_class_index]
 
-print("\nName: MANOJ KUMAR S")
-print("Register No: 212223240082")
+print("\nName: Meyyappan T")
+print("Register No: 212223240086")
 print(f'Predicted class for sample input: {predicted_class_label}')
 print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
@@ -178,7 +178,8 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 
 ### New Sample Data Prediction
-<img width="402" height="92" alt="Screenshot 2025-08-22 120446" src="https://github.com/user-attachments/assets/66c4974d-bdbb-44e7-ae70-603301a6adc1" />
+<img width="512" height="119" alt="image" src="https://github.com/user-attachments/assets/7022867d-8705-4d76-9294-f5d8fb947c48" />
+
 
 
 ## RESULT
